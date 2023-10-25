@@ -17,4 +17,4 @@ A "aplicação" em si é bem simples. Você digita a tarefa na qual quer guardar
 Com um tempo programando percebi que com React tive que pensar de outra maneira. As coisas no React parecem ser simples, porém complicado de pegar ainda em uma segunda vez. Um exemplo é que no React tem um tal de Estado, um hook que muda estado de váriaveis do tipo *__const__*. Outra coisa também é que aqui não tem querySelector, até tem, porém eu enfrentei problemas em usa-lo, então aqui você tem que pensar de forma diferente. Um jeito novo de se programar. Embora um pouco desafiador, com o tempo, programar em React se torna até mais rápido. Com o tempo o certo, vou evoluir ainda mais nessa biblioteca. Muito obrigado por ter lido até aqui, fico lisonjeado pelo seu tempo. <3
 
 #
-Resultado final: 
+Resultado final: https://my-to-do-list-one-khaki.vercel.app/
